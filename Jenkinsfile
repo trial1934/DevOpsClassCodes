@@ -9,7 +9,7 @@ pipeline{
            stage('Checkout'){
 	    
                steps{
-		 echo 'cloning Satish for gtesting..'
+		 echo 'cloning NUTHING/ANYTHIN' for gtesting..'
                  git 'https://github.com/akshu20791/DevOpsClassCodes.git'
               }
           }
